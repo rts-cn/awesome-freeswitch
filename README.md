@@ -1,0 +1,2 @@
+# awesome-freeswitch
+Awesome FreeSWITCH
