@@ -25,7 +25,7 @@ We don't have a complete contributing guide yet, maybe take a quick gander at th
 
 * https://freeswitch.org - The FreeSWITCH Community.
 * https://freeswitch.org - FreeSWITCH社区。
-* https://github.com/signalwire/freeswitch/releases/ FreeSWITCH 
+* https://github.com/signalwire/freeswitch/releases/ FreeSWITCH Release Notes
 * https://signalwire.com - An elastic communications cloud with advanced APIs for voice, SMS
 and video designed by the pioneers of software-defined telecom.
 * https://signalwire.com - 用于音频、视频、SMS的高级云计算通信平台，由软件定义电信网先驱们设计。
