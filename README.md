@@ -16,9 +16,11 @@ We don't have a complete contributing guide yet, maybe take a quick gander at th
 
 - [Useful Links](#useful-links)
 - [Modules](#modules)
+- [Libs](#libs)
 - [Tools](#tools)
 - [Resources](#resources)
 - [Clients](#clients)
+- [Friends](#friends)
 - [Others](#others)
 
 ## Useful Links
@@ -33,6 +35,8 @@ and video designed by the pioneers of software-defined telecom.
 * https://book.dujinfang.com/ FreeSWITCH相关中文图书。
 * http://x-y-t.cn/training.html FreeSWITCH培训课程（中文）。
 * https://github.com/rts-cn RTS实时通信解决方案。
+* https://www.gitmemory.com/signalwire/freeswitch Git Memory of FreeSWITCH
+* https://github.com/freeswitch 一些外围FreeSWITCH模块。
 
 ## Modules
 
@@ -40,6 +44,15 @@ and video designed by the pioneers of software-defined telecom.
 * https://github.com/rts-cn/mod_vnc - 与VNC交互的模块
 * https://github.com/rts-cn/mod_x11 - 与X11交互的模块
 * https://github.com/rts-cn/mod_aac - AAC编解码模块
+* https://github.com/freeswitch/mod_mosquitto FreeSWITCH interface to an MQTT broker using the Eclipse Mosquitto project C client library.
+* https://github.com/freeswitch/mod_coreclr The future home of a new Core .NET 3.1 based language plugin module.
+* https://github.com/seven1240/mod_v FreeSWITCH module in V.
+
+## Libs
+
+* https://github.com/EvoluxBR/greenswitch Battle proven FreeSWITCH Event Socket Protocol client implementation with Gevent
+* https://github.com/space88man/trioswitch FreeSWITCH Event Socket Protocol client implementation with Trio (based on GreenSWITCH)
+
 
 ## Tools
 
@@ -50,9 +63,17 @@ and video designed by the pioneers of software-defined telecom.
 * https://github.com/rts-cn/zh FreeSWITCH中文语音包
 * https://github.com/rts-cn/fsdg-code 《FreeSWITCH权威指南》随书代码。
 
-# Clients
+## Clients
 
 * https://github.com/gmaruzz/saraphone WebRTC SIP Phone
+
+## Friends
+
+Friends of FreeSWITCH
+
+* https://github.com/kamailio/kamailio SIP Proxy
+* https://github.com/OpenSIPS/opensips SIP Proxy
+* https://github.com/cgrates/cgrates Billing
 
 ## Others
 
