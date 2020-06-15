@@ -14,14 +14,14 @@ We don't have a complete contributing guide yet, maybe take a quick gander at th
 
 ## Contents
 
-- [Useful Links](#useful-links)
-- [Modules](#modules)
-- [Libs](#libs)
-- [Tools](#tools)
-- [Resources](#resources)
-- [Clients](#clients)
-- [Friends](#friends)
-- [Others](#others)
+- [Useful Links 有用的链接](#useful-links)
+- [Modules 模块](#modules)
+- [Libs 库](#libs)
+- [Tools 工具](#tools)
+- [Resources 资源](#resources)
+- [Clients 客户端](#clients)
+- [Friends 朋友们](#friends)
+- [Others 其它](#others)
 
 ## Useful Links
 
@@ -71,6 +71,7 @@ and video designed by the pioneers of software-defined telecom.
 
 Friends of FreeSWITCH
 
+* https://github.com/sipcapture/awesome-hep AweSome Friend
 * https://github.com/kamailio/kamailio SIP Proxy
 * https://github.com/OpenSIPS/opensips SIP Proxy
 * https://github.com/cgrates/cgrates Billing
