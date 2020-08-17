@@ -66,6 +66,7 @@ and video designed by the pioneers of software-defined telecom.
 ## Clients
 
 * https://github.com/gmaruzz/saraphone WebRTC SIP Phone
+* https://github.com/Mazuh/SimpleDemo-jQueryVertoJS Simple jQuery Verto video conference demo
 
 ## Friends
 
