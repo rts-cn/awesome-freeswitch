@@ -76,6 +76,8 @@ Friends of FreeSWITCH
 * https://github.com/kamailio/kamailio SIP Proxy
 * https://github.com/OpenSIPS/opensips SIP Proxy
 * https://github.com/cgrates/cgrates Billing
+* https://janus.conf.meetecho.com/ Janus
+* https://mediasoup.org/
 
 ## Others
 
@@ -83,6 +85,3 @@ Friends of FreeSWITCH
 
 ![FreeSWITCH-CN微信公众号](img/qrcode_for_FreeSWITCH-CN-wechat.jpg)
 
-![FreeSWITCH知识星球](img/zsxq-FreeSWITCH.jpg)
-
-![RTS知识星球](img/zsxq-rts.jpg)
