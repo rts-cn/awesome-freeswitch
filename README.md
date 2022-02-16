@@ -57,11 +57,14 @@ and video designed by the pioneers of software-defined telecom.
 ## Tools
 
 * https://github.com/rts-cn/freeswitch-tools - FreeSWITCH Tools
+* https://github.com/miconda/sipexer SIP命令行工具
+* https://github.com/SIPp/sipp a SIP protocol test tool SIP压测工具
 
 ## Resources
 
 * https://github.com/rts-cn/zh FreeSWITCH中文语音包
 * https://github.com/rts-cn/fsdg-code 《FreeSWITCH权威指南》随书代码。
+* https://github.com/miconda/sip-resources SIP Resources SIP资源
 
 ## Clients
 
@@ -77,7 +80,7 @@ Friends of FreeSWITCH
 * https://github.com/OpenSIPS/opensips SIP Proxy
 * https://github.com/cgrates/cgrates Billing
 * https://janus.conf.meetecho.com/ Janus
-* https://mediasoup.org/
+* https://mediasoup.org/ WebRTC
 
 ## Others
 
