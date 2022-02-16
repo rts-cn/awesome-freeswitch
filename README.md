@@ -84,7 +84,10 @@ Friends of FreeSWITCH
 
 ## Others
 
-* Placeholder for other uncategorized awesome projects.
+* https://github.com/cameronroe/awesome-webrtc
+* https://github.com/rtckit/awesome-rtc AweSome RTC
+* https://github.com/sindresorhus/awesome Interesting AweSome Stuff
+
 
 ![FreeSWITCH-CN微信公众号](img/qrcode_for_FreeSWITCH-CN-wechat.jpg)
 
