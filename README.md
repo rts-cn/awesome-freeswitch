@@ -37,6 +37,7 @@ and video designed by the pioneers of software-defined telecom.
 * https://github.com/rts-cn RTS实时通信解决方案。
 * https://www.gitmemory.com/signalwire/freeswitch Git Memory of FreeSWITCH
 * https://github.com/freeswitch 一些外围FreeSWITCH模块。
+* https://github.com/rts-cn/xswitch-free XSwitch.cn提供的Docker镜像，仅供学习用途。FreeSWITCH Docker Image by XSwitch.cn，Useful for learning FreeSWITCH.
 
 ## Modules
 
