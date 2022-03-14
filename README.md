@@ -90,5 +90,7 @@ Friends of FreeSWITCH
 * https://github.com/sindresorhus/awesome Interesting AweSome Stuff
 
 
+FreeSWITCH-CN Wechat Official Accounts:
+
 ![FreeSWITCH-CN微信公众号](img/qrcode_for_FreeSWITCH-CN-wechat.jpg)
 
