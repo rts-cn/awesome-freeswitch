@@ -88,6 +88,7 @@ Friends of FreeSWITCH
 * https://github.com/cameronroe/awesome-webrtc
 * https://github.com/rtckit/awesome-rtc AweSome RTC
 * https://github.com/sindresorhus/awesome Interesting AweSome Stuff
+* https://webrtcwork.com/ A space dedicated to making WebRTC work easier
 
 
 FreeSWITCH-CN Wechat Official Accounts:
