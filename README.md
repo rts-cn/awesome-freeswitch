@@ -32,6 +32,8 @@ We don't have a complete contributing guide yet, maybe take a quick gander at th
 and video designed by the pioneers of software-defined telecom.
 * https://signalwire.com - 用于音频、视频、SMS的高级云计算通信平台，由软件定义电信网先驱们设计。
 * http://www.freeswitch.org.cn - FreeSWITCH中文社区。
+* http://www.kamailio.oorg.cn - Kamailio中文社区。
+* http://rts.cn - RTS实时解决方案社区，包含FreeSWITCH和Kamailio、OpenSIPS等，探讨开源与商业解决方案的完美结合。
 * https://book.dujinfang.com/ FreeSWITCH相关中文图书。
 * http://x-y-t.cn/training.html FreeSWITCH培训课程（中文）。
 * https://github.com/rts-cn RTS实时通信解决方案。
