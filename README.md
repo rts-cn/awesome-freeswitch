@@ -14,14 +14,14 @@ We don't have a complete contributing guide yet, maybe take a quick gander at th
 
 ## Contents | 内容
 
-- [Useful Links 有用的链接](#useful-links)
-- [Modules 模块](#modules)
-- [Libs 库](#libs)
-- [Tools 工具](#tools)
-- [Resources 资源](#resources)
-- [Clients 客户端](#clients)
-- [Friends 朋友们](#friends)
-- [Others 其它](#others)
+- [Useful Links 有用的链接](#useful-links--有用的链接)
+- [Modules 模块](#modules--模块)
+- [Libs 库](#libs--库)
+- [Tools 工具](#tools--工具)
+- [Resources 资源](#resources--资源)
+- [Clients 客户端](#clients--客户端)
+- [Friends 朋友们](#friends--朋友们)
+- [Others 其它](#others--其它)
 
 ## Useful Links | 有用的链接
 
