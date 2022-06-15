@@ -12,7 +12,7 @@ We don't have a complete contributing guide yet, maybe take a quick gander at th
 
 我们支持多语言，每个语言占一行，欢迎提PR。
 
-## Contents
+## Contents | 内容
 
 - [Useful Links 有用的链接](#useful-links)
 - [Modules 模块](#modules)
@@ -23,7 +23,7 @@ We don't have a complete contributing guide yet, maybe take a quick gander at th
 - [Friends 朋友们](#friends)
 - [Others 其它](#others)
 
-## Useful Links
+## Useful Links | 有用的链接
 
 * https://freeswitch.org - The FreeSWITCH Community.
 * https://freeswitch.org - FreeSWITCH社区。
@@ -41,7 +41,7 @@ and video designed by the pioneers of software-defined telecom.
 * https://github.com/freeswitch 一些外围FreeSWITCH模块。
 * https://github.com/rts-cn/xswitch-free XSwitch.cn提供的Docker镜像，仅供学习用途。FreeSWITCH Docker Image by XSwitch.cn，Useful for learning FreeSWITCH.
 
-## Modules
+## Modules | 模块
 
 * https://github.com/rts-cn/mod_shine - 使用shine进行MP3录音的库。
 * https://github.com/rts-cn/mod_vnc - 与VNC交互的模块
@@ -51,32 +51,32 @@ and video designed by the pioneers of software-defined telecom.
 * https://github.com/freeswitch/mod_coreclr The future home of a new Core .NET 3.1 based language plugin module.
 * https://github.com/seven1240/mod_v FreeSWITCH module in V.
 
-## Libs
+## Libs | 库
 
 * https://github.com/EvoluxBR/greenswitch Battle proven FreeSWITCH Event Socket Protocol client implementation with Gevent
 * https://github.com/space88man/trioswitch FreeSWITCH Event Socket Protocol client implementation with Trio (based on GreenSWITCH)
 
 
-## Tools
+## Tools | 工具
 
 * https://github.com/rts-cn/freeswitch-tools - FreeSWITCH Tools
 * https://github.com/miconda/sipexer SIP命令行工具
 * https://github.com/SIPp/sipp a SIP protocol test tool SIP压测工具
 
-## Resources
+## Resources | 资源
 
 * https://github.com/rts-cn/zh FreeSWITCH中文语音包
 * https://github.com/rts-cn/fsdg-code 《FreeSWITCH权威指南》随书代码。
 * https://github.com/miconda/sip-resources SIP Resources SIP资源
 
-## Clients
+## Clients | 客户端
 
 * https://github.com/gmaruzz/saraphone WebRTC SIP Phone
 * https://github.com/Mazuh/SimpleDemo-jQueryVertoJS Simple jQuery Verto video conference demo
 
-## Friends
+## Friends | 朋友们
 
-Friends of FreeSWITCH
+Friends of FreeSWITCH | FreeSWITCH的朋友们
 
 * https://github.com/sipcapture/awesome-hep AweSome Friend
 * https://github.com/kamailio/kamailio SIP Proxy
@@ -85,7 +85,7 @@ Friends of FreeSWITCH
 * https://janus.conf.meetecho.com/ Janus
 * https://mediasoup.org/ WebRTC
 
-## Others
+## Others | 其它
 
 * https://github.com/cameronroe/awesome-webrtc
 * https://github.com/rtckit/awesome-rtc AweSome RTC
@@ -94,7 +94,7 @@ Friends of FreeSWITCH
 * https://github.com/react-native-webrtc/react-native-webrtc React Native WebRTC
 * https://github.com/shiguredo-webrtc-build/webrtc-build WebRTC Build
 
-FreeSWITCH-CN Wechat Official Accounts:
+FreeSWITCH-CN Wechat Official Accounts | FreeSWITCH微信公众号
 
 ![FreeSWITCH-CN微信公众号](img/qrcode_for_FreeSWITCH-CN-wechat.jpg)
 
