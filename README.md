@@ -31,6 +31,8 @@ We don't have a complete contributing guide yet, maybe take a quick gander at th
 * https://signalwire.com - An elastic communications cloud with advanced APIs for voice, SMS
 and video designed by the pioneers of software-defined telecom.
 * https://signalwire.com - 用于音频、视频、SMS的高级云计算通信平台，由软件定义电信网先驱们设计。
+* https://forum.signalwire.community/ - FreeSWITCH SignalWire Community Forum
+* https://forum.signalwire.community/ - FreeSWITCH SignalWire官方社区论坛
 * http://www.freeswitch.org.cn - FreeSWITCH中文社区。
 * http://www.kamailio.oorg.cn - Kamailio中文社区。
 * http://rts.cn - RTS实时解决方案社区，包含FreeSWITCH和Kamailio、OpenSIPS等，探讨开源与商业解决方案的完美结合。
@@ -39,7 +41,8 @@ and video designed by the pioneers of software-defined telecom.
 * https://github.com/rts-cn RTS实时通信解决方案。
 * https://www.gitmemory.com/signalwire/freeswitch Git Memory of FreeSWITCH
 * https://github.com/freeswitch 一些外围FreeSWITCH模块。
-* https://github.com/rts-cn/xswitch-free XSwitch.cn提供的Docker镜像，仅供学习用途。FreeSWITCH Docker Image by XSwitch.cn，Useful for learning FreeSWITCH.
+* https://github.com/rts-cn/xswitch-free [XSwitch.cn](https://xswitch.cn)提供的Docker镜像，仅供学习用途。
+* https://github.com/rts-cn/xswitch-free FreeSWITCH Docker Image by [XSwitch.cn](https://xswitch.cn)，Useful for learning FreeSWITCH.
 
 ## Modules | 模块
 
@@ -97,4 +100,3 @@ Friends of FreeSWITCH | FreeSWITCH的朋友们
 FreeSWITCH-CN Wechat Official Accounts | FreeSWITCH微信公众号
 
 ![FreeSWITCH-CN微信公众号](img/qrcode_for_FreeSWITCH-CN-wechat.jpg)
-
