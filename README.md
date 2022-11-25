@@ -50,6 +50,7 @@ and video designed by the pioneers of software-defined telecom.
 * https://github.com/rts-cn/mod_vnc - 与VNC交互的模块
 * https://github.com/rts-cn/mod_x11 - 与X11交互的模块
 * https://github.com/rts-cn/mod_aac - AAC编解码模块
+* https://github.com/freeswitch/mod_unimrcp - 通过MRCP协议连接ASR/TTS的模块。
 * https://github.com/freeswitch/mod_mosquitto FreeSWITCH interface to an MQTT broker using the Eclipse Mosquitto project C client library.
 * https://github.com/freeswitch/mod_coreclr The future home of a new Core .NET 3.1 based language plugin module.
 * https://github.com/seven1240/mod_v FreeSWITCH module in V.
