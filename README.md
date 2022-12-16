@@ -27,6 +27,7 @@ We don't have a complete contributing guide yet, maybe take a quick gander at th
 
 * https://freeswitch.org - The FreeSWITCH Community.
 * https://freeswitch.org - FreeSWITCH社区。
+* https://cluecon.com - ClueCon is an annual telephony and voice over IP developers conference started in 2005 by the FreeSWITCH core developer team
 * https://github.com/signalwire/freeswitch/releases/ FreeSWITCH Release Notes
 * https://signalwire.com - An elastic communications cloud with advanced APIs for voice, SMS
 and video designed by the pioneers of software-defined telecom.
