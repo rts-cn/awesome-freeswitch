@@ -78,6 +78,8 @@ and video designed by the pioneers of software-defined telecom.
 
 * [我用过的那些SIP客户端](http://rts.cn/blog/sip/)
 * https://github.com/gmaruzz/saraphone WebRTC SIP Phone
+* https://github.com/rasonyang/web-sip-phone - Chrome extension holding a SIP over WebSocket registration in an offscreen document, so a call survives page reloads. No dialpad: FreeSWITCH drives it over uuid_phone_event.
+* https://github.com/rasonyang/web-sip-phone - Chrome 扩展，在 offscreen document 里持有 SIP over WebSocket 注册，页面刷新不会断话。它自己没有拨号盘：接听、保持由 FreeSWITCH 通过 uuid_phone_event 驱动。
 * https://github.com/Mazuh/SimpleDemo-jQueryVertoJS Simple jQuery Verto video conference demo
 
 ## Friends | 朋友们
