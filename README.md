@@ -67,6 +67,8 @@ and video designed by the pioneers of software-defined telecom.
 * https://github.com/rts-cn/freeswitch-tools - FreeSWITCH Tools
 * https://github.com/miconda/sipexer SIP命令行工具
 * https://github.com/SIPp/sipp a SIP protocol test tool SIP压测工具
+* https://github.com/rasonyang/ai-native-callcenter - AI-first call center on FreeSWITCH: a realtime voice model answers the call, then transfers into mod_callcenter queues with the transcript following the caller. One Go binary plus PostgreSQL.
+* https://github.com/rasonyang/ai-native-callcenter - FreeSWITCH 上的 AI 优先呼叫中心：实时语音模型先接听，需要真人时转入 mod_callcenter 队列，对话文本跟着来电一起交到坐席。一个 Go 二进制加 PostgreSQL。
 
 ## Resources | 资源
 
