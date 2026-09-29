@@ -89,6 +89,8 @@ Friends of FreeSWITCH | FreeSWITCH的朋友们
 * https://github.com/sipcapture/awesome-hep AweSome Friend
 * https://github.com/kamailio/kamailio SIP Proxy
 * https://github.com/OpenSIPS/opensips SIP Proxy
+* https://github.com/rasonyang/freesbc - SBC in Go, sits in front of FreeSWITCH: SIP over UDP/WS/WSS, in-process RTP relay, SDES-SRTP and WebRTC (ICE-Lite, DTLS-SRTP), configured from one YAML file.
+* https://github.com/rasonyang/freesbc - Go 编写的 SBC，放在 FreeSWITCH 前面：SIP 走 UDP/WS/WSS，RTP 在进程内转发，支持 SDES-SRTP 与 WebRTC（ICE-Lite、DTLS-SRTP），只用一个 YAML 文件配置。
 * https://github.com/cgrates/cgrates Billing
 * https://janus.conf.meetecho.com/ Janus
 * https://mediasoup.org/ WebRTC
