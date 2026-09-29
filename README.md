@@ -67,6 +67,8 @@ and video designed by the pioneers of software-defined telecom.
 * https://github.com/rts-cn/freeswitch-tools - FreeSWITCH Tools
 * https://github.com/miconda/sipexer SIP命令行工具
 * https://github.com/SIPp/sipp a SIP protocol test tool SIP压测工具
+* https://github.com/rasonyang/cascade-realtime-gateway - OpenAI Realtime protocol gateway in Go, running a cascaded ASR + LLM + TTS behind the wire, so a Realtime client can mix Deepgram, OpenAI and Qwen. 24 kHz PCM only.
+* https://github.com/rasonyang/cascade-realtime-gateway - Go 编写的 OpenAI Realtime 协议网关，协议后面接的是 ASR + LLM + TTS 级联，可以混用 Deepgram、OpenAI、Qwen。只支持 24 kHz PCM。
 
 ## Resources | 资源
 
