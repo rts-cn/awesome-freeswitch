@@ -67,6 +67,8 @@ and video designed by the pioneers of software-defined telecom.
 * https://github.com/rts-cn/freeswitch-tools - FreeSWITCH Tools
 * https://github.com/miconda/sipexer SIP命令行工具
 * https://github.com/SIPp/sipp a SIP protocol test tool SIP压测工具
+* https://github.com/rasonyang/cascade-realtime-gateway - OpenAI Realtime protocol gateway in Go, running a cascaded ASR + LLM + TTS behind the wire, so a Realtime client can mix Deepgram, OpenAI and Qwen. 24 kHz PCM only.
+* https://github.com/rasonyang/cascade-realtime-gateway - Go 编写的 OpenAI Realtime 协议网关，协议后面接的是 ASR + LLM + TTS 级联，可以混用 Deepgram、OpenAI、Qwen。只支持 24 kHz PCM。
 * https://github.com/rasonyang/ai-native-callcenter - AI-first call center on FreeSWITCH: a realtime voice model answers the call, then transfers into mod_callcenter queues with the transcript following the caller. One Go binary plus PostgreSQL.
 * https://github.com/rasonyang/ai-native-callcenter - FreeSWITCH 上的 AI 优先呼叫中心：实时语音模型先接听，需要真人时转入 mod_callcenter 队列，对话文本跟着来电一起交到坐席。一个 Go 二进制加 PostgreSQL。
 
@@ -80,6 +82,8 @@ and video designed by the pioneers of software-defined telecom.
 
 * [我用过的那些SIP客户端](http://rts.cn/blog/sip/)
 * https://github.com/gmaruzz/saraphone WebRTC SIP Phone
+* https://github.com/rasonyang/web-sip-phone - Chrome extension holding a SIP over WebSocket registration in an offscreen document, so a call survives page reloads. No dialpad: FreeSWITCH drives it over uuid_phone_event.
+* https://github.com/rasonyang/web-sip-phone - Chrome 扩展，在 offscreen document 里持有 SIP over WebSocket 注册，页面刷新不会断话。它自己没有拨号盘：接听、保持由 FreeSWITCH 通过 uuid_phone_event 驱动。
 * https://github.com/Mazuh/SimpleDemo-jQueryVertoJS Simple jQuery Verto video conference demo
 
 ## Friends | 朋友们
@@ -89,6 +93,8 @@ Friends of FreeSWITCH | FreeSWITCH的朋友们
 * https://github.com/sipcapture/awesome-hep AweSome Friend
 * https://github.com/kamailio/kamailio SIP Proxy
 * https://github.com/OpenSIPS/opensips SIP Proxy
+* https://github.com/rasonyang/freesbc - SBC in Go, sits in front of FreeSWITCH: SIP over UDP/WS/WSS, in-process RTP relay, SDES-SRTP and WebRTC (ICE-Lite, DTLS-SRTP), configured from one YAML file.
+* https://github.com/rasonyang/freesbc - Go 编写的 SBC，放在 FreeSWITCH 前面：SIP 走 UDP/WS/WSS，RTP 在进程内转发，支持 SDES-SRTP 与 WebRTC（ICE-Lite、DTLS-SRTP），只用一个 YAML 文件配置。
 * https://github.com/cgrates/cgrates Billing
 * https://janus.conf.meetecho.com/ Janus
 * https://mediasoup.org/ WebRTC
