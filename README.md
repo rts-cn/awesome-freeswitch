@@ -22,6 +22,7 @@ We don't have a complete contributing guide yet, maybe take a quick gander at th
 - [Clients 客户端](#clients--客户端)
 - [Friends 朋友们](#friends--朋友们)
 - [Others 其它](#others--其它)
+- [Out-dated 过时](#out-dated--过时)
 
 ## Useful Links | 有用的链接
 
@@ -37,12 +38,11 @@ and video designed by the pioneers of software-defined telecom.
 * https://forum.signalwire.community/ - FreeSWITCH SignalWire Community Forum
 * https://forum.signalwire.community/ - FreeSWITCH SignalWire官方社区论坛
 * http://www.freeswitch.org.cn - FreeSWITCH中文社区。
-* http://www.kamailio.oorg.cn - Kamailio中文社区。
+* https://www.kamailio.org.cn - Kamailio中文社区。
 * http://rts.cn - RTS实时解决方案社区，包含FreeSWITCH和Kamailio、OpenSIPS、WebRTC、AI等，探讨开源与商业解决方案的完美结合。
 * https://book.dujinfang.com/ FreeSWITCH相关中文图书。
 * http://x-y-t.cn/training.html FreeSWITCH培训课程（中文）。
 * https://github.com/rts-cn RTS实时通信解决方案。
-* https://www.gitmemory.com/signalwire/freeswitch Git Memory of FreeSWITCH
 * https://github.com/freeswitch 一些外围FreeSWITCH模块。
 * https://github.com/rts-cn/xswitch-free [XSwitch.cn](https://xswitch.cn)提供的Docker镜像，仅供学习用途。
 * https://github.com/rts-cn/xswitch-free FreeSWITCH Docker Image by [XSwitch.cn](https://xswitch.cn)，Useful for learning FreeSWITCH.
@@ -88,7 +88,6 @@ and video designed by the pioneers of software-defined telecom.
 * https://github.com/gmaruzz/saraphone WebRTC SIP Phone
 * https://github.com/rasonyang/web-sip-phone - Chrome extension holding a SIP over WebSocket registration in an offscreen document, so a call survives page reloads. No dialpad: FreeSWITCH drives it over uuid_phone_event.
 * https://github.com/rasonyang/web-sip-phone - Chrome 扩展，在 offscreen document 里持有 SIP over WebSocket 注册，页面刷新不会断话。它自己没有拨号盘：接听、保持由 FreeSWITCH 通过 uuid_phone_event 驱动。
-* https://github.com/Mazuh/SimpleDemo-jQueryVertoJS Simple jQuery Verto video conference demo
 
 ## Friends | 朋友们
 
@@ -108,13 +107,25 @@ Friends of FreeSWITCH | FreeSWITCH的朋友们
 * https://github.com/cameronroe/awesome-webrtc
 * https://github.com/rtckit/awesome-rtc AweSome RTC
 * https://github.com/sindresorhus/awesome Interesting AweSome Stuff
-* https://webrtcwork.com/ A space dedicated to making WebRTC work easier
 * https://github.com/react-native-webrtc/react-native-webrtc React Native WebRTC
 * https://github.com/shiguredo-webrtc-build/webrtc-build WebRTC Build
 
 FreeSWITCH-CN Wechat Official Accounts | FreeSWITCH微信公众号
 
 ![FreeSWITCH-CN微信公众号](img/qrcode_for_FreeSWITCH-CN-wechat.jpg)
+
+## Out-dated | 过时
+
+Kept for reference. These links are dead, archived or no longer maintained.
+
+保留作参考：以下链接已失效、已归档或不再维护。
+
+* https://www.gitmemory.com/signalwire/freeswitch Git Memory of FreeSWITCH. GitMemory has shut down.
+* https://www.gitmemory.com/signalwire/freeswitch FreeSWITCH 的 Git Memory 页面，GitMemory 服务已关闭。
+* https://webrtcwork.com/ A space dedicated to making WebRTC work easier. The domain no longer resolves.
+* https://webrtcwork.com/ 致力于让 WebRTC 更易用的网站，域名已无法解析。
+* https://github.com/Mazuh/SimpleDemo-jQueryVertoJS Simple jQuery Verto video conference demo. Archived by its author.
+* https://github.com/Mazuh/SimpleDemo-jQueryVertoJS 简单的 jQuery Verto 视频会议示例，作者已归档。
 
 ## Star History
 
