@@ -118,6 +118,4 @@ FreeSWITCH-CN Wechat Official Accounts | FreeSWITCH微信公众号
 
 ## Star History
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/chart?repos=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/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&type=date&legend=top-left)](https://www.star-history.com/?repos=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%2F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&type=date&legend=top-left)
+![Star History Chart](https://api.star-history.com/chart?repos=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/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&type=date&legend=top-left)
