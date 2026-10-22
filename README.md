@@ -31,6 +31,10 @@ We don't have a complete contributing guide yet, maybe take a quick gander at th
 * https://rts.cn/events/ RTSCon is an anual telephony and VoIP developers conference started in 2012 by the FreeSWITCH.org.cn maintainers. Formerly known as FreeSWITCH Developers' Salon.
 * https://rts.cn/events/ RTSCon 是一个年度会议，由FreeSWITCH中文社区发起（2012），以前叫FreeSWITCH开发者沙龙，2020年改为此名。
 * https://github.com/signalwire/freeswitch/releases/ FreeSWITCH Release Notes
+* https://developer.signalwire.com/freeswitch - FreeSWITCH documentation, including the module reference and the Event Socket protocol.
+* https://developer.signalwire.com/freeswitch - FreeSWITCH 官方文档，包括模块参考和 Event Socket 协议说明。
+* https://github.com/signalwire/freeswitch-docs - Source of that documentation, so fixes can go in as pull requests.
+* https://github.com/signalwire/freeswitch-docs - 上述文档的源码，发现错误可以直接提 PR。
 * https://signalwire.com - An elastic communications cloud with advanced APIs for voice, SMS
 and video designed by the pioneers of software-defined telecom.
 * https://signalwire.com - 用于音频、视频、SMS的高级云计算通信平台，由软件定义电信网先驱们设计。
@@ -57,11 +61,19 @@ and video designed by the pioneers of software-defined telecom.
 * https://github.com/freeswitch/mod_mosquitto FreeSWITCH interface to an MQTT broker using the Eclipse Mosquitto project C client library.
 * https://github.com/freeswitch/mod_coreclr The future home of a new Core .NET 3.1 based language plugin module.
 * https://github.com/seven1240/mod_v FreeSWITCH module in V.
+* https://github.com/amigniter/mod_audio_stream - Streams a channel's audio to a WebSocket and plays returned audio back. The usual bridge between FreeSWITCH and a speech or AI service.
+* https://github.com/amigniter/mod_audio_stream - 把通道音频推送到 WebSocket，并播放返回的音频，常用来连接 FreeSWITCH 和语音识别或 AI 服务。
 
 ## Libs | 库
 
 * https://github.com/EvoluxBR/greenswitch Battle proven FreeSWITCH Event Socket Protocol client implementation with Gevent
 * https://github.com/space88man/trioswitch FreeSWITCH Event Socket Protocol client implementation with Trio (based on GreenSWITCH)
+* https://github.com/freeswitch/sofia-sip - The SIP stack FreeSWITCH is built on, now maintained by the FreeSWITCH project.
+* https://github.com/freeswitch/sofia-sip - FreeSWITCH 所用的 SIP 协议栈，现由 FreeSWITCH 项目维护。
+* https://github.com/freeswitch/spandsp - DSP library behind mod_spandsp: fax, tone detection and echo cancellation.
+* https://github.com/freeswitch/spandsp - mod_spandsp 背后的 DSP 库，负责传真、音调检测和回声消除。
+* https://github.com/percipia/eslgo - Event Socket client for Go, inbound and outbound modes, typed events.
+* https://github.com/percipia/eslgo - Go 语言的 Event Socket 客户端，支持 inbound 和 outbound 两种模式。
 
 
 ## Tools | 工具
@@ -69,6 +81,16 @@ and video designed by the pioneers of software-defined telecom.
 * https://github.com/rts-cn/freeswitch-tools - FreeSWITCH Tools
 * https://github.com/miconda/sipexer SIP命令行工具
 * https://github.com/SIPp/sipp a SIP protocol test tool SIP压测工具
+* https://github.com/irontec/sngrep - SIP capture in the terminal with call flow diagrams. The quickest way to see what a box is doing.
+* https://github.com/irontec/sngrep - 终端里的 SIP 抓包工具，能画出呼叫流程图，排查问题最快的办法之一。
+* https://github.com/sipcapture/homer - SIP capture and correlation across many servers, so one call can be followed across every hop.
+* https://github.com/sipcapture/homer - 跨多台服务器的 SIP 抓包与关联分析，可以把一通电话经过的每一跳串起来看。
+* https://github.com/florentchauveau/freeswitch_exporter - Prometheus exporter that reads FreeSWITCH over the Event Socket, for dashboards and alerts.
+* https://github.com/florentchauveau/freeswitch_exporter - 通过 Event Socket 读取 FreeSWITCH 数据的 Prometheus exporter，用于监控面板和告警。
+* https://github.com/EnableSecurity/sipvicious - Tools for auditing SIP systems. Run it against your own server before someone else does.
+* https://github.com/EnableSecurity/sipvicious - SIP 安全审计工具集，最好先拿自己的服务器测一遍。
+* https://github.com/Pepelux/sippts - Toolkit for scanning, enumerating and testing SIP services.
+* https://github.com/Pepelux/sippts - 用于扫描、枚举和测试 SIP 服务的工具集。
 * https://github.com/fclairamb/solidping - Self-hosted uptime monitoring in Go. Its SIP check sends OPTIONS (or tries a REGISTER) to FreeSWITCH over UDP, TCP or TLS and alerts when it stops answering.
 * https://github.com/rasonyang/cascade-realtime-gateway - OpenAI Realtime protocol gateway in Go, running a cascaded ASR + LLM + TTS behind the wire, so a Realtime client can mix Deepgram, OpenAI and Qwen. 24 kHz PCM only.
 * https://github.com/rasonyang/cascade-realtime-gateway - Go 编写的 OpenAI Realtime 协议网关，协议后面接的是 ASR + LLM + TTS 级联，可以混用 Deepgram、OpenAI、Qwen。只支持 24 kHz PCM。
@@ -86,6 +108,12 @@ and video designed by the pioneers of software-defined telecom.
 * [我用过的那些SIP客户端](http://rts.cn/blog/sip/)
 * https://xswitch.cn/app/ CherryCall SIP Clients and VibCall WebRTC based clients for Android, iOS, macOS, Windows and HarmonyOS.
 * https://github.com/gmaruzz/saraphone WebRTC SIP Phone
+* https://github.com/versatica/JsSIP - JavaScript SIP over WebSocket library for building browser phones against mod_sofia.
+* https://github.com/versatica/JsSIP - JavaScript 的 SIP over WebSocket 库，可以对接 mod_sofia 做浏览器电话。
+* https://github.com/onsip/SIP.js - The other common JavaScript SIP library, with a simpler API for everyday cases.
+* https://github.com/onsip/SIP.js - 另一个常用的 JavaScript SIP 库，常见场景下接口更简单。
+* https://github.com/baresip/baresip - Modular SIP user agent, handy as a scriptable test endpoint.
+* https://github.com/baresip/baresip - 模块化的 SIP 用户代理，适合做可编程的测试终端。
 * https://github.com/rasonyang/web-sip-phone - Chrome extension holding a SIP over WebSocket registration in an offscreen document, so a call survives page reloads. No dialpad: FreeSWITCH drives it over uuid_phone_event.
 * https://github.com/rasonyang/web-sip-phone - Chrome 扩展，在 offscreen document 里持有 SIP over WebSocket 注册，页面刷新不会断话。它自己没有拨号盘：接听、保持由 FreeSWITCH 通过 uuid_phone_event 驱动。
 * https://github.com/Mazuh/SimpleDemo-jQueryVertoJS Simple jQuery Verto video conference demo
@@ -97,6 +125,18 @@ Friends of FreeSWITCH | FreeSWITCH的朋友们
 * https://github.com/sipcapture/awesome-hep AweSome Friend
 * https://github.com/kamailio/kamailio SIP Proxy
 * https://github.com/OpenSIPS/opensips SIP Proxy
+* https://github.com/fusionpbx/fusionpbx - Multi-tenant web interface that many people run on top of FreeSWITCH.
+* https://github.com/fusionpbx/fusionpbx - 很多人在 FreeSWITCH 上使用的多租户 Web 管理界面。
+* https://github.com/jambonz/jambonz-feature-server - Open source CPaaS: drachtio for SIP, FreeSWITCH for media, webhook and WebSocket APIs.
+* https://github.com/jambonz/jambonz-feature-server - 开源 CPaaS：drachtio 处理 SIP，FreeSWITCH 处理媒体，提供 webhook 和 WebSocket API。
+* https://github.com/drachtio/drachtio-server - SIP server controlled from Node.js, the signalling half of jambonz.
+* https://github.com/drachtio/drachtio-server - 用 Node.js 控制的 SIP 服务器，也是 jambonz 的信令部分。
+* https://github.com/bigbluebutton/bigbluebutton - Web conferencing for teaching. Its audio mixing runs on FreeSWITCH.
+* https://github.com/bigbluebutton/bigbluebutton - 面向教学的网络会议系统，音频混音跑在 FreeSWITCH 上。
+* https://github.com/sipwise/rtpengine - RTP proxy and media relay for NAT traversal, recording and transcoding.
+* https://github.com/sipwise/rtpengine - RTP 代理和媒体中继，处理 NAT 穿越、录音和转码。
+* https://github.com/coturn/coturn - The STUN and TURN server most WebRTC deployments end up running.
+* https://github.com/coturn/coturn - 大多数 WebRTC 部署都会用到的 STUN/TURN 服务器。
 * https://github.com/rasonyang/freesbc - SBC in Go, sits in front of FreeSWITCH: SIP over UDP/WS/WSS, in-process RTP relay, SDES-SRTP and WebRTC (ICE-Lite, DTLS-SRTP), configured from one YAML file.
 * https://github.com/rasonyang/freesbc - Go 编写的 SBC，放在 FreeSWITCH 前面：SIP 走 UDP/WS/WSS，RTP 在进程内转发，支持 SDES-SRTP 与 WebRTC（ICE-Lite、DTLS-SRTP），只用一个 YAML 文件配置。
 * https://github.com/cgrates/cgrates Billing
