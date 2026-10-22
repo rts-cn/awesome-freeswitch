@@ -74,6 +74,8 @@ and video designed by the pioneers of software-defined telecom.
 * https://github.com/freeswitch/spandsp - mod_spandsp 背后的 DSP 库，负责传真、音调检测和回声消除。
 * https://github.com/percipia/eslgo - Event Socket client for Go, inbound and outbound modes, typed events.
 * https://github.com/percipia/eslgo - Go 语言的 Event Socket 客户端，支持 inbound 和 outbound 两种模式。
+* https://github.com/ictinnovations/freeswitch-esl-node - Event Socket client for Node.js with TypeScript types and no dependencies.
+* https://github.com/ictinnovations/freeswitch-esl-node - Node.js 的 Event Socket 客户端，带 TypeScript 类型定义，无第三方依赖。
 
 
 ## Tools | 工具
@@ -96,6 +98,14 @@ and video designed by the pioneers of software-defined telecom.
 * https://github.com/rasonyang/cascade-realtime-gateway - Go 编写的 OpenAI Realtime 协议网关，协议后面接的是 ASR + LLM + TTS 级联，可以混用 Deepgram、OpenAI、Qwen。只支持 24 kHz PCM。
 * https://github.com/rasonyang/ai-native-callcenter - AI-first call center on FreeSWITCH: a realtime voice model answers the call, then transfers into mod_callcenter queues with the transcript following the caller. One Go binary plus PostgreSQL.
 * https://github.com/rasonyang/ai-native-callcenter - FreeSWITCH 上的 AI 优先呼叫中心：实时语音模型先接听，需要真人时转入 mod_callcenter 队列，对话文本跟着来电一起交到坐席。一个 Go 二进制加 PostgreSQL。
+* https://github.com/ictinnovations/ictfax - Fax server on FreeSWITCH and mod_spandsp, with T.38, a web interface and a REST API.
+* https://github.com/ictinnovations/ictfax - 基于 FreeSWITCH 和 mod_spandsp 的传真服务器，支持 T.38，带 Web 界面和 REST API。
+* https://github.com/ictinnovations/ictcore - Framework that exposes FreeSWITCH voice, fax and messaging as a REST API with programmable call flows.
+* https://github.com/ictinnovations/ictcore - 把 FreeSWITCH 的语音、传真和消息能力封装成 REST API 的框架，呼叫流程可编程。
+* https://github.com/ictinnovations/ictpbx-community-edition - Multi-tenant PBX packaging FreeSWITCH and FusionPBX with a REST API.
+* https://github.com/ictinnovations/ictpbx-community-edition - 打包了 FreeSWITCH 和 FusionPBX 的多租户 PBX，提供 REST API。
+* https://github.com/ictinnovations/pbx-mcp - MCP server that lets an AI assistant query a live FreeSWITCH over the Event Socket: channels, registrations and calls.
+* https://github.com/ictinnovations/pbx-mcp - MCP 服务器，让 AI 助手通过 Event Socket 查询运行中的 FreeSWITCH：通道、注册和呼叫。
 
 ## Resources | 资源
 
