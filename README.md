@@ -27,7 +27,9 @@ We don't have a complete contributing guide yet, maybe take a quick gander at th
 
 * https://freeswitch.org - The FreeSWITCH Community.
 * https://freeswitch.org - FreeSWITCH社区。
-* https://cluecon.com - ClueCon is an annual telephony and voice over IP developers conference started in 2005 by the FreeSWITCH core developer team
+* https://cluecon.com - ClueCon is an annual telephony and Voice over IP developers conference started in 2005 by the FreeSWITCH core developer team
+* https://rts.cn/events/ RTSCon is an anual telephony and VoIP developers conference started in 2012 by the FreeSWITCH.org.cn maintainers. Formerly known as FreeSWITCH Developers' Salon.
+* https://rts.cn/events/ RTSCon 是一个年度会议，由FreeSWITCH中文社区发起（2012），以前叫FreeSWITCH开发者沙龙，2020年改为此名。
 * https://github.com/signalwire/freeswitch/releases/ FreeSWITCH Release Notes
 * https://signalwire.com - An elastic communications cloud with advanced APIs for voice, SMS
 and video designed by the pioneers of software-defined telecom.
@@ -36,7 +38,7 @@ and video designed by the pioneers of software-defined telecom.
 * https://forum.signalwire.community/ - FreeSWITCH SignalWire官方社区论坛
 * http://www.freeswitch.org.cn - FreeSWITCH中文社区。
 * http://www.kamailio.oorg.cn - Kamailio中文社区。
-* http://rts.cn - RTS实时解决方案社区，包含FreeSWITCH和Kamailio、OpenSIPS等，探讨开源与商业解决方案的完美结合。
+* http://rts.cn - RTS实时解决方案社区，包含FreeSWITCH和Kamailio、OpenSIPS、WebRTC、AI等，探讨开源与商业解决方案的完美结合。
 * https://book.dujinfang.com/ FreeSWITCH相关中文图书。
 * http://x-y-t.cn/training.html FreeSWITCH培训课程（中文）。
 * https://github.com/rts-cn RTS实时通信解决方案。
