@@ -74,6 +74,8 @@ and video designed by the pioneers of software-defined telecom.
 * https://github.com/rasonyang/cascade-realtime-gateway - Go 编写的 OpenAI Realtime 协议网关，协议后面接的是 ASR + LLM + TTS 级联，可以混用 Deepgram、OpenAI、Qwen。只支持 24 kHz PCM。
 * https://github.com/rasonyang/ai-native-callcenter - AI-first call center on FreeSWITCH: a realtime voice model answers the call, then transfers into mod_callcenter queues with the transcript following the caller. One Go binary plus PostgreSQL.
 * https://github.com/rasonyang/ai-native-callcenter - FreeSWITCH 上的 AI 优先呼叫中心：实时语音模型先接听，需要真人时转入 mod_callcenter 队列，对话文本跟着来电一起交到坐席。一个 Go 二进制加 PostgreSQL。
+* https://github.com/miuda-ai/sipmon - Passive SIP/RTP monitoring tool in Rust. Runs on a mirror port or offline pcap, no PBX dependency: Call-ID call correlation, RFC3550 jitter/loss, RTCP RTT, E-model MOS, TURN detection, 20+ diagnostic rules, live TUI and JSONL export.
+* https://github.com/miuda-ai/sipmon - Rust 编写的被动式 SIP/RTP 信令与媒体质量监控工具。部署在镜像口或离线分析 pcap 即可，不依赖 PBX：按 Call-ID 关联呼叫、RFC3550 抖动/丢包、RTCP RTT、E-model MOS、TURN 识别、20+ 条诊断规则，实时 TUI 展示并可导出 JSONL。
 
 ## Resources | 资源
 
@@ -99,6 +101,12 @@ Friends of FreeSWITCH | FreeSWITCH的朋友们
 * https://github.com/OpenSIPS/opensips SIP Proxy
 * https://github.com/rasonyang/freesbc - SBC in Go, sits in front of FreeSWITCH: SIP over UDP/WS/WSS, in-process RTP relay, SDES-SRTP and WebRTC (ICE-Lite, DTLS-SRTP), configured from one YAML file.
 * https://github.com/rasonyang/freesbc - Go 编写的 SBC，放在 FreeSWITCH 前面：SIP 走 UDP/WS/WSS，RTP 在进程内转发，支持 SDES-SRTP 与 WebRTC（ICE-Lite、DTLS-SRTP），只用一个 YAML 文件配置。
+* https://github.com/restsend/rustpbx - Software-defined PBX in Rust: full SIP stack (UDP/TCP/WS/TLS/WebRTC), RTP relay and transcoding, webhook routing plus WebSocket real-time call control (RWI), AI voice agents as call participants, built-in Web console. No C modules, no recompilation.
+* https://github.com/restsend/rustpbx - Rust 编写的软件定义 PBX：完整 SIP 栈（UDP/TCP/WS/TLS/WebRTC）、RTP 转发与转码、Webhook 路由 + WebSocket 实时呼叫控制（RWI）、AI 语音智能体可作为通话参与者、内置 Web 控制台。无需 C 模块，无需重新编译。
+* https://github.com/restsend/rsipstack - RFC 3261/3262 compliant SIP stack in Rust: UDP/TCP/TLS/WebSocket transports, transaction and dialog layers, digest auth, PRACK. Build SIP proxies, registrars, user agents or WebRTC SBCs; also runs no_std on embassy-based embedded targets.
+* https://github.com/restsend/rsipstack - Rust 编写的 SIP 协议栈，符合 RFC 3261/3262：支持 UDP/TCP/TLS/WebSocket 传输、事务层与对话层、摘要认证、PRACK。可用于构建 SIP 代理、注册服务器、用户代理或 WebRTC SBC，还支持 no_std 跑在 embassy 嵌入式环境。
+* https://github.com/restsend/rustrtc - High-performance real-time communication library in Rust: WebRTC, RTP/SRTP and T.38 fax behind a unified PeerConnection API, full ICE/STUN/TURN, UPnP NAT traversal. Benchmarked at ~3.3x the throughput of webrtc-rs.
+* https://github.com/restsend/rustrtc - Rust 高性能实时通信库：以统一的 PeerConnection API 提供 WebRTC、RTP/SRTP 与 T.38 传真，完整 ICE/STUN/TURN 与 UPnP NAT 穿越。基准测试吞吐量约为 webrtc-rs 的 3.3 倍。
 * https://github.com/cgrates/cgrates Billing
 * https://janus.conf.meetecho.com/ Janus
 * https://mediasoup.org/ WebRTC
