@@ -57,6 +57,7 @@ and video designed by the pioneers of software-defined telecom.
 * https://github.com/freeswitch/mod_mosquitto FreeSWITCH interface to an MQTT broker using the Eclipse Mosquitto project C client library.
 * https://github.com/freeswitch/mod_coreclr The future home of a new Core .NET 3.1 based language plugin module.
 * https://github.com/seven1240/mod_v FreeSWITCH module in V.
+* https://github.com/amigniter/mod_audio_stream Production-grade WebSocket audio streaming for FreeSWITCH.
 
 ## Libs | 库
 
