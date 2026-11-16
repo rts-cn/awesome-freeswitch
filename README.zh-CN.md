@@ -68,6 +68,7 @@
 - [sngrep](https://github.com/irontec/sngrep) - 终端里的 SIP 抓包工具，能画出呼叫流程图，排查问题最快的办法之一。 `C`
 - [HOMER](https://github.com/sipcapture/homer) - 跨多台服务器的 SIP 抓包与关联分析，可以把一通电话经过的每一跳串起来看。 `Go`
 - [freeswitch_exporter](https://github.com/florentchauveau/freeswitch_exporter) - 通过 Event Socket 读取 FreeSWITCH 数据的 Prometheus exporter，用于监控面板和告警。 `MIT` `Go`
+- [FreeSWITCH Console](https://github.com/juki/freeswitch-console) - 通过 Event Socket 运维 FreeSWITCH 的 Web 控制台，交换机上无需安装任何东西：多实例实时状态、最近挂断记录（解释挂断原因并附该通话自己的日志）、带历史的配置文件编辑、日志和 API 控制台。 `AGPL-3.0` `Go`
 - [SIPVicious](https://github.com/EnableSecurity/sipvicious) - SIP 安全审计工具集，最好先拿自己的服务器测一遍。 `Python`
 - [sippts](https://github.com/Pepelux/sippts) - 用于扫描、枚举和测试 SIP 服务的工具集。 `GPL-3.0` `Python`
 - [solidping](https://github.com/fclairamb/solidping) - Go 编写的自托管可用性监控工具。SIP 检查通过 UDP/TCP/TLS 向 FreeSWITCH 发送 OPTIONS（或尝试 REGISTER），无响应时告警。 `AGPL-3.0` `Go`

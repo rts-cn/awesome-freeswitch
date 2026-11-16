@@ -68,6 +68,7 @@ A curated list of awesome FreeSWITCH resources, modules, frameworks, libraries a
 - [sngrep](https://github.com/irontec/sngrep) - SIP capture in the terminal with call flow diagrams. The quickest way to see what a box is doing. `C`
 - [HOMER](https://github.com/sipcapture/homer) - SIP capture and correlation across many servers, so a single call can be followed through every hop. `Go`
 - [freeswitch_exporter](https://github.com/florentchauveau/freeswitch_exporter) - Prometheus exporter that reads FreeSWITCH over the Event Socket, for dashboards and alerts. `MIT` `Go`
+- [FreeSWITCH Console](https://github.com/juki/freeswitch-console) - Web console for operating FreeSWITCH over the Event Socket, with nothing installed on the switch: the live state of many instances, recent hang-ups with the cause explained and the call's own log lines, configuration file editing with history, logs and an API console. `AGPL-3.0` `Go`
 - [SIPVicious](https://github.com/EnableSecurity/sipvicious) - Tools for auditing SIP systems. Run it against your own server before someone else does. `Python`
 - [sippts](https://github.com/Pepelux/sippts) - Toolkit for scanning, enumerating and testing SIP services. `GPL-3.0` `Python`
 - [solidping](https://github.com/fclairamb/solidping) - Self-hosted uptime monitoring in Go. Its SIP check sends OPTIONS (or tries a REGISTER) to FreeSWITCH over UDP, TCP or TLS and alerts when it stops answering. `AGPL-3.0` `Go`
